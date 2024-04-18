@@ -1,2 +1,3 @@
-# optuna-tutorial
-An introductory tutorial of hyperparameter optimization using Optuna.
+# RSE Session Notebooks
+
+A collection of notebooks presented at ICCS RSE sessions.
